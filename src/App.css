@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: #ffff;
+}
+.appContent {
+  background-color: darkslategray;
+  margin: 40px;
+  padding: 20px;
+}
+button {
+  background-color: red;
+  color: #ffff;
+  font-weight: 600;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 4px;
+  border: none;
+}
+textarea {
+  margin: 20px;
+  padding: 20px;
+}
