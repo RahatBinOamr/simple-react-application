@@ -23,3 +23,8 @@ textarea {
   margin: 20px;
   padding: 20px;
 }
+#outputArea {
+  color: greenyellow;
+  font-size: 25px;
+  font-weight: 400;
+}
